@@ -1,0 +1,3 @@
+Initial notes for the project.
+More Details about the project.
+Additional improvements in the documnetation.
